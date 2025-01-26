@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Instagram-B43565?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 
-![snake animation](https://github.com/syahrul-ramadhan/syahrul-ramadhan/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 

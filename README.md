@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Syahrul Ramadhan</h1>
-<h3 align="center">Front End Developer | UI/UX Designer</h3>
+<h3 align="center">Front End Developer | Game Programmer</h3>
 
 
 
@@ -11,11 +11,6 @@
   <img src="https://img.shields.io/badge/Instagram-B43565?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 
 </div>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahrul-Ramadhan&layout=compact&theme=dracula" />
-</p>
 
 ---
   
